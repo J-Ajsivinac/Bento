@@ -9,7 +9,7 @@ const CONFIG = {
 	// ┌┐ ┌─┐┌─┐┬┌─┐┌─┐
 	// ├┴┐├─┤└─┐││  └─┐
 	// └─┘┴ ┴└─┘┴└─┘└─┘
-
+	// new comment
 	// General
 	name: 'Rei',
 	imageBackground: false,
